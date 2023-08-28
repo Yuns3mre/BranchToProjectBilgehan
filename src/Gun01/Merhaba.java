@@ -14,6 +14,7 @@ public class Merhaba {
 
         System.out.println("Merhaba 3 ogrt");
 
+        System.out.println("İsmet 1");
 
     }
 }
